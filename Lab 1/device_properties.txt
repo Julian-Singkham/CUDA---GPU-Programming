@@ -1,0 +1,60 @@
+
+Number of CUDA devices: 4
+
+-------------------------Device Properties-------------------------
+
+**************************** GPU 0 ****************************
+
+Name:                  Tesla T4
+Global Memory:         15.441664 Gb
+Shared Memory/block:   48.000000 Kb
+Registers/block:       65536
+Warp Size:             32
+Max Threads/block:     1024
+Max Block Dimensions:  [ 1024 x 1024 x 64 ]
+Max Grid Dimensions:   [ 2147483647 x 65535 x 65535 ]
+Constant Memory:       64.000000 Kb
+Compute Capability:    7.5
+Clock Rate:            1.590000 GHz
+
+**************************** GPU 1 ****************************
+
+Name:                  Tesla T4
+Global Memory:         15.441664 Gb
+Shared Memory/block:   48.000000 Kb
+Registers/block:       65536
+Warp Size:             32
+Max Threads/block:     1024
+Max Block Dimensions:  [ 1024 x 1024 x 64 ]
+Max Grid Dimensions:   [ 2147483647 x 65535 x 65535 ]
+Constant Memory:       64.000000 Kb
+Compute Capability:    7.5
+Clock Rate:            1.590000 GHz
+
+**************************** GPU 2 ****************************
+
+Name:                  Tesla T4
+Global Memory:         15.441664 Gb
+Shared Memory/block:   48.000000 Kb
+Registers/block:       65536
+Warp Size:             32
+Max Threads/block:     1024
+Max Block Dimensions:  [ 1024 x 1024 x 64 ]
+Max Grid Dimensions:   [ 2147483647 x 65535 x 65535 ]
+Constant Memory:       64.000000 Kb
+Compute Capability:    7.5
+Clock Rate:            1.590000 GHz
+
+**************************** GPU 3 ****************************
+
+Name:                  Tesla T4
+Global Memory:         15.441664 Gb
+Shared Memory/block:   48.000000 Kb
+Registers/block:       65536
+Warp Size:             32
+Max Threads/block:     1024
+Max Block Dimensions:  [ 1024 x 1024 x 64 ]
+Max Grid Dimensions:   [ 2147483647 x 65535 x 65535 ]
+Constant Memory:       64.000000 Kb
+Compute Capability:    7.5
+Clock Rate:            1.590000 GHz
